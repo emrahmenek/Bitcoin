@@ -8,4 +8,4 @@ HTML5 CSS3 and SCSS
 
 <h2> Screen Gif</h2>
 
-! [](btc.gif)
+! [](/images/btc.gif)
